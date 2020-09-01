@@ -24,5 +24,5 @@ Data Mining คือ การสกัดเอาความรู้ที�
 - - -
 ## KDD Process
 Input data -> Data Pre-Processing -> Data Mining -> Post-Processing (Pattern evaluation การประเมินผลว่ามีความน่าเชื่อถือมากน้อยเพียงใด, Pattern selection หลักการเลือก, Pattern interpretation การแปรผล, Pattern visualization การแสดงข้อมูล) -> Pattern Information knowledge 
-- - -
+- - - 
  
