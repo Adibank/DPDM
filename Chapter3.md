@@ -8,3 +8,5 @@
 * เราสามารถศึกษาเพิ่มเติมทั้งหมดได้ที่ https://matplotlib.org/api/_as_gen/matplotlib.pyplot.boxplot.html
 * ในลิ้งก์ข้างต้นจะบอกการใช้โค้ดที่จำเป็นที่ต้องใช้ใน Boxplot
 - - -
+# หาข้อูลทำโปรเจคจากไหนได้บ้าง?
+* ได้ที่นี่เลย "https://data.go.th/"
