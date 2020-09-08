@@ -10,3 +10,32 @@
 - - -
 # หาข้อูลทำโปรเจคจากไหนได้บ้าง?
 * ได้ที่นี่เลย "https://data.go.th/" 
+- - - 
+# Chapter 3: Data Preprocessing
+* Data	Preprocessing:	An	Overview
+* Data	Cleaning
+  * จัดการข้อมูลที่สูญหาย, ทำข้อมูลให้ smooth, หาข้อมูลที่ผิดปกติแล้วก็ลบมันออกไป และแก้ไขความไม่สอดคล้องกันของข้อมูล
+* Data	Integration
+* Data	Reduction	and	Transformation
+* Dimensionality	Reduction
+* Summary
+## Why Preprocess the Data?
+* Measures	for	data	quality:	A	multidimensional	view
+* Accuracy:	correct	or	wrong,	accurate	or	not
+* Completeness:	not	recorded,	unavailable,	…
+* Consistency:	some	modified	but	some	not,	dangling,	…
+* Timeliness:	timely	update?	
+* Believability:	how	trustable	the	data	are	correct?
+* Interpretability:	how	easily	the	data	can	be	understood?
+## How to Handle Missing Data?
+* Ignore	the	tuple:	usually	done	when	class	label	is	missing	(when	doing	
+classification)—not	effective	when	the	%	of	missing	values	per	attribute	varies	
+considerably
+* Fill	in	the	missing	value	manually:	tedious	+	infeasible?
+* Fill	in	it	automatically	with
+* a	global	constant	:	e.g.,	“unknown”,	a	new	class?!	
+* the	attribute	mean
+* the	attribute	mean	for	all	samples	belonging	to	the	same	class:	smarter
+* the	most	probable	value:	inference-based	such	as	Bayesian	formula	or	decision	
+tree
+
