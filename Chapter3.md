@@ -35,7 +35,7 @@ considerably
 * Fill	in	it	automatically	with
 * a	global	constant	:	e.g.,	“unknown”,	a	new	class?!	
 * the	attribute	mean
-* the	attribute	mean	for	all	samples	belonging	to	the	same	class:	smarter
+* the	attribute	mean	for	all	samples	belonging	to	the	same	class:	smarter 
 * the	most	probable	value:	inference-based	such	as	Bayesian	formula	or	decision	
 tree
 
